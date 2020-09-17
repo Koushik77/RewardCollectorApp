@@ -1,0 +1,75 @@
+.ProfileCard{
+  display: flex;
+  flex-direction:column;
+  background: linear-gradient(to top left, #5094D5 0%, #0B3964 100%);
+  width: 350px;
+  padding-top:10%;
+  padding-left:10%;
+  color: white;
+}
+.RewardCard{
+  width: 50%;
+  height: 250px;
+  box-shadow: 5px 10px 8px #888888;
+  text-align: center;
+  margin-top: 10%;
+  background: linear-gradient(to top left,#3D94B2 0%, #B0DEEE 100%);
+  border-radius: 20px;
+}
+#reward{
+  background: linear-gradient(to top left, #5094D5 0%, #0B3964 100%);
+  cursor: pointer;
+}
+#noreward{
+  color: black;
+}
+.card2{
+  width:500px;  
+  text-align: center; 
+  margin-top: 5%;
+}
+.app{
+  display: flex;
+  flex-direction:row;
+  box-shadow: 5px 10px 8px #888888;
+  height: 600px;
+  width: 60%;
+  margin-top: 2%;
+  margin-left: 20%;
+}
+h2{
+  font-weight: none;
+  font-size: medium;
+}
+button{
+  background-color: #158E29;
+  padding: 10px;
+  width: 100px;
+  color:white;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 10%;
+  cursor: pointer;
+}
+.click{
+  color:black;
+  font-size: 30px;
+  font-weight: bolder;
+  position: relative;
+  top: 40%;
+
+}
+h2{
+  font-size: x-large;
+  font-style: italic;
+}
+section{
+display: flex;
+flex-direction: row;
+text-align: center;
+}
+
+#disable{
+  background-color: #6B9B5F;
+  cursor: auto;
+}
